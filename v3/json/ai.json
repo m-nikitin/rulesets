@@ -13,7 +13,9 @@
         "api.githubcopilot.com",
         "api.github.com",
         "claude.ai",
-        "anthropic.com"
+        "anthropic.com",
+        "grok.com",
+        "x.ai"
       ]
     }
   ]
